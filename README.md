@@ -26,4 +26,4 @@ Este é um projeto web simples que serve como uma base de dados sobre *Valorant*
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/GustavoStack/valorantData.git
+   git clone https://github.com/GustavoStack/ValorantData.git
